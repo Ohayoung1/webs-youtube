@@ -23,7 +23,7 @@ const Header = () => {
                     <span>webs<br />youtube</span>
                 </a>
             </h1>
-            
+
             <nav className='header__menu'>
                 <ul className='menu'>
                     <li className='active'>
@@ -103,10 +103,11 @@ const Header = () => {
                     </li>
                 </ul>
             </nav>
+            
             <div className='header__sns'>
                 <ul>
                     <li>
-                        <a href='https://github.com/Ohayoung1/webs-youtube' rel='noopener noreferrer'>
+                        <a href='https://github.com/Ohayoung1' rel='noopener noreferrer'>
                             <AiFillGithub />
                         </a>
                     </li>
